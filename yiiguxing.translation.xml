@@ -1,0 +1,51 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="character" />
+      <item value="分钟" />
+      <item value="sensor" />
+      <item value="period" />
+      <item value="trigger" />
+      <item value="Thres" />
+      <item value="Interval" />
+      <item value="threshold" />
+      <item value="启动" />
+      <item value="profile" />
+      <item value="Signal" />
+      <item value="Delivery" />
+      <item value="处理" />
+      <item value="inside" />
+      <item value="Zoom" />
+      <item value="category" />
+      <item value="catrgory" />
+      <item value="categore" />
+      <item value="current" />
+      <item value="电流" />
+      <item value="粗略" />
+      <item value="计算" />
+      <item value="nested" />
+      <item value="详情" />
+      <item value="Escape" />
+      <item value="Numeric" />
+      <item value="deactivation" />
+      <item value="increasing" />
+      <item value="transform" />
+      <item value="转换" />
+      <item value="change" />
+      <item value="固定" />
+      <item value="指定" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Microsoft JhengHei UI Light" />
+    <option name="primaryFontFamily" value="Microsoft YaHei UI" />
+  </component>
+</application>
