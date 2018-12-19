@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Material" />
+      <item value=" IDE" />
       <item value="lat" />
       <item value="lng" />
       <item value="character" />
