@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested" />
       <item value=" Material" />
       <item value=" IDE" />
       <item value="lat" />
@@ -27,7 +28,6 @@
       <item value="电流" />
       <item value="粗略" />
       <item value="计算" />
-      <item value="nested" />
       <item value="详情" />
       <item value="Escape" />
       <item value="Numeric" />
@@ -42,7 +42,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="POLISH" value="1" />
         <entry key="FILIPINO" value="1" />
       </map>
