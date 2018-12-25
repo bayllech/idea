@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Greenwich" />
+      <item value="/** * Obtains an instance of {@code ZoneId} from an ID ensuring that the * ID is valid and available for use. * &lt;p&gt; * This method parses the ID producing a {@code ZoneId} or {@code ZoneOffset}. * A {@code ZoneOffset} is returned if the ID is 'Z', or starts with '+' or '-'. * The result will always be a valid ID for which {@link ZoneRules} can be obtained. * &lt;p&gt; * Parsing matches the zone ID step by step as follows. * &lt;ul&gt; * &lt;li&gt;If the zone ID equals 'Z', the result is {@code ZoneOffset.UTC}. * &lt;li&gt;If the zone ID consists of a single letter, the zone ID is invalid * and {@code DateTimeException} is thrown. * &lt;li&gt;If the zone ID starts with '+' or '-', the ID is parsed as a * {@code ZoneOffset} using {@link ZoneOffset#of(String)}. * &lt;li&gt;If the zone ID equals 'GMT', 'UTC' or 'UT' then the result is a {@code ZoneId} * with the same ID and rules equivalent to {@code ZoneOffset.UTC}. * &lt;li&gt;If the zone ID starts with 'UTC+', 'UTC-', 'GMT+', 'GMT-', 'UT+' or 'UT-' * then the ID is a prefixed offset-based ID. The ID is split in two, with * a two or three letter prefix and a suffix starting with the sign. * The suffix is parsed as a {@link ZoneOffset#of(String) ZoneOffset}. * The result will be a {@code ZoneId} with the specified UTC/GMT/UT prefix * and the normalized offset ID as per {@link ZoneOffset#getId()}. * The rules of the returned {@code ZoneId} will be equivalent to the * parsed {@code ZoneOffset}. * &lt;li&gt;All other IDs are parsed as region-based zone IDs. Region IDs must * match the regular expression &lt;code&gt;[A-Za-z][A-Za-z0-9~/._+-]+&lt;/code&gt; * otherwise a {@code DateTimeException} is thrown. If the zone ID is not * in the configured set of IDs, {@code ZoneRulesException} is thrown. * The detailed format of the region ID depends on the group supplying the data. * The default set of data is supplied by the IANA Time Zone Database (TZDB). * This has region IDs of the form '{area}/{city}', such as 'Europe/Paris' or 'America/New_York'." />
       <item value="anchor" />
       <item value="inappropriate" />
       <item value="redundant" />
@@ -44,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="POLISH" value="1" />
         <entry key="FILIPINO" value="1" />
       </map>
