@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decorator" />
       <item value="Literals" />
       <item value="feature" />
       <item value="raw" />
@@ -50,7 +51,6 @@
       <item value="计算" />
       <item value="详情" />
       <item value="Escape" />
-      <item value="Numeric" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,11 +62,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Segoe UI" />
