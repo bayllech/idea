@@ -62,7 +62,9 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="foldOriginal" value="true" />
     <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Segoe UI" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
