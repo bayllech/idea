@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current" />
+      <item value="ajax" />
+      <item value="elem" />
       <item value="render" />
       <item value="range" />
-      <item value="elem" />
-      <item value="ajax" />
       <item value="decorator" />
       <item value="Literals" />
       <item value="feature" />
@@ -49,7 +50,6 @@
       <item value="category" />
       <item value="catrgory" />
       <item value="categore" />
-      <item value="current" />
       <item value="电流" />
     </histories>
     <option name="languageScores">
