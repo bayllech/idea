@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="宽高" />
       <item value="current" />
       <item value="ajax" />
       <item value="elem" />
@@ -50,12 +51,11 @@
       <item value="category" />
       <item value="catrgory" />
       <item value="categore" />
-      <item value="电流" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="POLISH" value="1" />
         <entry key="FILIPINO" value="1" />
       </map>
