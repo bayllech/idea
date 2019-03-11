@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="terminate" />
       <item value="declaration" />
       <item value="振幅" />
       <item value="平均" />
@@ -50,7 +51,6 @@
       <item value="shape" />
       <item value="Angle" />
       <item value="Cluster" />
-      <item value="Clusterer" />
     </histories>
     <option name="languageScores">
       <map>
