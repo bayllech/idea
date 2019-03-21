@@ -1,0 +1,11 @@
+<templateSet group="AAAAA">
+  <template name="*" value="* &#10; * $VAR1$ &#10;$params$&#10; * @return $returns$&#10; * @author bei.qi&#10; * @date $date$&#10; */" description="方法注释(一定要填写描述才能显示正常格式）食用方法：/** + TAB" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;def result='';  def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList();  for(i = 0; i &lt; params.size(); i++) {  result+=' * @param ' + params[i] + ((i &lt; (params.size() - 1)) ? '\\n' + '\\t' : '');  };  return result&quot;, methodParameters())  " defaultValue="" alwaysStopAt="true" />
+    <variable name="returns" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
