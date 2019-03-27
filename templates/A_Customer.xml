@@ -8,7 +8,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="so::" value="System.out::println;" description="System.out::println;" toReformat="false" toShortenFQNames="true">
+  <template name="so::" value="System.out::println" description="System.out::println" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
