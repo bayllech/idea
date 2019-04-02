@@ -38,6 +38,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql">
+      <remarks>x_springboot</remarks>
       <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
