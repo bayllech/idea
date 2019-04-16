@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标准" />
+      <item value="校准" />
       <item value="aqua" />
       <item value="清除" />
       <item value="音频" />
@@ -49,13 +51,11 @@
       <item value="macro" />
       <item value="* THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS&#10; * OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED&#10; * WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE&#10; * ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY&#10; * DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL&#10; * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE&#10; * GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS&#10; * INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,&#10; * WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING&#10; * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS&#10; * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
       <item value="Allocates" />
-      <item value="appropriate" />
-      <item value="take into" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="124" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
