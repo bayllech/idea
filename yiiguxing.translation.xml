@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/**&#10;     * A handler for rejected tasks that runs the rejected task&#10;     * directly in the calling thread of the {@code execute} method,&#10;     * unless the executor has been shut down, in which case the task&#10;     * is discarded.&#10;     */" />
       <item value="stderr" />
       <item value="schedule" />
       <item value="present" />
@@ -50,12 +51,11 @@
       <item value="Default Channel Pipeline" />
       <item value="recycler" />
       <item value="Resource Leak Detector" />
-      <item value="Aware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="146" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
