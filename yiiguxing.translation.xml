@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ReflectorFactory" />
+      <item value="Reflector Factory" />
+      <item value="declared" />
+      <item value="All-language autocompleter — TabNine uses machine learning to help you write code faster." />
+      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training. The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features. Your feedback is much appreciated here: jb.gg/training-plugin-feedback Found a bug or have a feature to suggest? Welcome to the tracker: https://training.myjetbrains.com/youtrack/issues/TP" />
+      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training.&#10;The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features.&#10;Your feedback is much appreciated here: jb.gg/training-plugin-feedback&#10;Found a bug or have a feature to suggest? Welcome to the tracker: https://training.myjetbrains.com/youtrack/issues/TP" />
+      <item value="Invocation" />
+      <item value="nested" />
       <item value="to Upper Case" />
       <item value="terminated" />
       <item value="Rejected Execution Exception" />
@@ -41,21 +49,13 @@
       <item value="Open file in console on http GET-request to localhost:&lt;port&gt;&#10;with file path as &quot;message&quot; parameter (encoded or not). &#10;Example: http://localhost:8093?message=C:/file.log" />
       <item value="刷新" />
       <item value="mounted" />
-      <item value="nested" />
       <item value="Subject does not have permission" />
       <item value="电容" />
-      <item value="Ciss" />
-      <item value="相位" />
-      <item value="泄漏电流" />
-      <item value="有效值" />
-      <item value="处理" />
-      <item value="Board" />
-      <item value="Bushing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="158" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
