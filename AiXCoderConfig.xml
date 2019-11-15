@@ -1,10 +1,8 @@
 <application>
   <component name="ConfigState">
-    <option name="enabled" value="false" />
-    <option name="fineTune" value="正常使用插件时，额外参数请不要填写内容" />
     <option name="macUUID" value="89b1c28f-675a-4fe0-985a-f2426c354158" />
-    <option name="tips" value="false" />
     <option name="tips_position" value="2" />
     <option name="timeOutTip" value="false" />
+    <option name="selectItem" value="优先选中IDE结果" />
   </component>
 </application>
