@@ -70,7 +70,6 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Segoe UI" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
-    <option name="showWordsOnStartup" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6787a6ce50600ef8" />
