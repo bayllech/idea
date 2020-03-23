@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="查询" />
       <item value="sensor" />
       <item value="Unsigned" />
       <item value="统计" />
@@ -50,11 +51,10 @@
       <item value="Invocation" />
       <item value="nested" />
       <item value="to Upper Case" />
-      <item value="terminated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
+        <entry key="CHINESE" value="193" />
         <entry key="ENGLISH" value="193" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
