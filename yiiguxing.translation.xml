@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sign-off" />
+      <item value="amend" />
       <item value="查询" />
       <item value="sensor" />
       <item value="Unsigned" />
@@ -49,13 +51,11 @@
       <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training. The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features. Your feedback is much appreciated here: jb.gg/training-plugin-feedback Found a bug or have a feature to suggest? Welcome to the tracker: https://training.myjetbrains.com/youtrack/issues/TP" />
       <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training.&#10;The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features.&#10;Your feedback is much appreciated here: jb.gg/training-plugin-feedback&#10;Found a bug or have a feature to suggest? Welcome to the tracker: https://training.myjetbrains.com/youtrack/issues/TP" />
       <item value="Invocation" />
-      <item value="nested" />
-      <item value="to Upper Case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="194" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
