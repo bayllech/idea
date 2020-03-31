@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precis" />
       <item value="Selected region contains block comment suffix" />
       <item value="电量" />
       <item value="温度" />
@@ -50,7 +51,6 @@
       <item value="parsing a meta element's content: ';' is not a valid key-value pair separator. Please use ',' instead" />
       <item value="/**&#10; * A container for settings for the generation of getters and setters.&#10; * &lt;p&gt;&#10; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/experimental/Accessors&quot;&gt;the project lombok features page for &amp;#64;Accessors&lt;/a&gt;.&#10; * &lt;p&gt;&#10; * Using this annotation does nothing by itself; an annotation that makes lombok generate getters and setters,&#10; * such as {@link lombok.Setter} or {@link lombok.Data} is also required.&#10; */" />
       <item value="Accessors" />
-      <item value="ReflectorFactory" />
     </histories>
     <option name="languageScores">
       <map>
@@ -59,6 +59,7 @@
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
