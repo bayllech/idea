@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="millis" />
       <item value="mutu" />
       <item value="别名" />
       <item value="precis" />
@@ -50,7 +51,6 @@
       <item value="persistence" />
       <item value="Delivery" />
       <item value="Page" />
-      <item value="parsing a meta element's content: ';' is not a valid key-value pair separator. Please use ',' instead" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,6 +61,7 @@
         <entry key="FILIPINO" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
