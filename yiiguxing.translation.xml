@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offset" />
       <item value=" /**&#10;     * Returns the next pseudorandom, uniformly distributed {@code int}&#10;     * value from this random number generator's sequence. The general&#10;     * contract of {@code nextInt} is that one {@code int} value is&#10;     * pseudorandomly generated and returned. All 2&lt;sup&gt;32&lt;/sup&gt; possible&#10;     * {@code int} values are produced with (approximately) equal probability.&#10;     *&#10;     * &lt;p&gt;The method {@code nextInt} is implemented by class {@code Random}&#10;     * as if by:&#10;     *  &lt;pre&gt; {@code&#10;     * public int nextInt() {&#10;     *   return next(32);&#10;     * }}&lt;/pre&gt;&#10;     *&#10;     * @return the next pseudorandom, uniformly distributed {@code int}&#10;     *         value from this random number generator's sequence&#10;     */" />
       <item value=" /**&#10;     * Creates a new random number generator. This constructor sets&#10;     * the seed of the random number generator to a value very likely&#10;     * to be distinct from any other invocation of this constructor.&#10;     */" />
       <item value="断路器" />
@@ -50,12 +51,11 @@
       <item value="SQL Syntax Error Exception" />
       <item value="校验码" />
       <item value="流水号" />
-      <item value="流水" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
