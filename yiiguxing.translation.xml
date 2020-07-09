@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="水浸" />
       <item value="chart" />
       <item value="char" />
       <item value="/**&#10;     * Removes all of the elements from this list (optional operation).&#10;     * The list will be empty after this call returns.&#10;     *&#10;     * @throws UnsupportedOperationException if the &lt;tt&gt;clear&lt;/tt&gt; operation&#10;     *         is not supported by this list&#10;     */" />
@@ -50,11 +51,10 @@
       <item value="    /**&#10;     * Parses the string argument as an unsigned integer in the radix&#10;     * specified by the second argument.  An unsigned integer maps the&#10;     * values usually associated with negative numbers to positive&#10;     * numbers larger than {@code MAX_VALUE}.&#10;     *&#10;     * The characters in the string must all be digits of the&#10;     * specified radix (as determined by whether {@link&#10;     * java.lang.Character#digit(char, int)} returns a nonnegative&#10;     * value), except that the first character may be an ASCII plus&#10;     * sign {@code '+'} ({@code '\u005Cu002B'}). The resulting&#10;     * integer value is returned.&#10;     *&#10;     * &lt;p&gt;An exception of type {@code NumberFormatException} is&#10;     * thrown if any of the following situations occurs:&#10;     * &lt;ul&gt;&#10;     * &lt;li&gt;The first argument is {@code null} or is a string of&#10;     * length zero.&#10;     *&#10;     * &lt;li&gt;The radix is either smaller than&#10;     * {@link java.lang.Character#MIN_RADIX} or&#10;     * larger than {@link java.lang.Character#MAX_RADIX}.&#10;     *&#10;     * &lt;li&gt;Any character of the string is not a digit of the specified&#10;     * radix, except that the first character may be a plus sign&#10;     * {@code '+'} ({@code '\u005Cu002B'}) provided that the&#10;     * string is longer than length 1.&#10;     *&#10;     * &lt;li&gt;The value represented by the string is larger than the&#10;     * largest unsigned {@code int}, 2&lt;sup&gt;32&lt;/sup&gt;-1.&#10;     *&#10;     * &lt;/ul&gt;&#10;     *&#10;     *&#10;     * @param      s   the {@code String} containing the unsigned integer&#10;     *                  representation to be parsed&#10;     * @param      radix   the radix to be used while parsing {@code s}.&#10;     * @return     the integer represented by the string argument in the&#10;     *             specified radix.&#10;     * @throws     NumberFormatException if the {@code String}&#10;     *             does not contain a parsable {@code int}.&#10;     * @since 1.8&#10;     */" />
       <item value="被动" />
       <item value="/**&#10;     * Returns a string that is a substring of this string. The&#10;     * substring begins with the character at the specified index and&#10;     * extends to the end of this string. &lt;p&gt;&#10;     * Examples:&#10;     * &lt;blockquote&gt;&lt;pre&gt;&#10;     * &quot;unhappy&quot;.substring(2) returns &quot;happy&quot;&#10;     * &quot;Harbison&quot;.substring(3) returns &quot;bison&quot;&#10;     * &quot;emptiness&quot;.substring(9) returns &quot;&quot; (an empty string)&#10;     * &lt;/pre&gt;&lt;/blockquote&gt;&#10;     *&#10;     * @param      beginIndex   the beginning index, inclusive.&#10;     * @return     the specified substring.&#10;     * @exception  IndexOutOfBoundsException  if&#10;     *             {@code beginIndex} is negative or larger than the&#10;     *             length of this {@code String} object.&#10;     */" />
-      <item value="the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
+        <entry key="CHINESE" value="223" />
         <entry key="ENGLISH" value="223" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
