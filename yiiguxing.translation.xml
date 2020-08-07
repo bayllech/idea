@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="偏移" />
       <item value="Class Path Scanning Candidate Component Provider" />
       <item value="Concurrent Modification Exception" />
       <item value="/**&#10;     * Generates the next pseudorandom number. Subclasses should&#10;     * override this, as this is used by all other methods.&#10;     *&#10;     * &lt;p&gt;The general contract of {@code next} is that it returns an&#10;     * {@code int} value and if the argument {@code bits} is between&#10;     * {@code 1} and {@code 32} (inclusive), then that many low-order&#10;     * bits of the returned value will be (approximately) independently&#10;     * chosen bit values, each of which is (approximately) equally&#10;     * likely to be {@code 0} or {@code 1}. The method {@code next} is&#10;     * implemented by class {@code Random} by atomically updating the seed to&#10;     *  &lt;pre&gt;{@code (seed * 0x5DEECE66DL + 0xBL) &amp; ((1L &lt;&lt; 48) - 1)}&lt;/pre&gt;&#10;     * and returning&#10;     *  &lt;pre&gt;{@code (int)(seed &gt;&gt;&gt; (48 - bits))}.&lt;/pre&gt;&#10;     *&#10;     * This is a linear congruential pseudorandom number generator, as&#10;     * defined by D. H. Lehmer and described by Donald E. Knuth in&#10;     * &lt;i&gt;The Art of Computer Programming,&lt;/i&gt; Volume 3:&#10;     * &lt;i&gt;Seminumerical Algorithms&lt;/i&gt;, section 3.2.1.&#10;     *&#10;     * @param  bits random bits&#10;     * @return the next pseudorandom value from this random number&#10;     *         generator's sequence&#10;     * @since  1.1&#10;     */" />
@@ -15,7 +16,6 @@
       <item value="algorithm" />
       <item value="算法" />
       <item value="门阀值" />
-      <item value="偏移" />
       <item value="相位" />
       <item value="门磁" />
       <item value="温湿度" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
+        <entry key="CHINESE" value="243" />
         <entry key="ENGLISH" value="243" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
