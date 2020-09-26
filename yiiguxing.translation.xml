@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同步" />
       <item value="假的" />
       <item value="调整" />
       <item value="/**&#10;     * Returns a representation of the specified floating-point value&#10;     * according to the IEEE 754 floating-point &quot;single format&quot; bit&#10;     * layout, preserving Not-a-Number (NaN) values.&#10;     *&#10;     * &lt;p&gt;Bit 31 (the bit that is selected by the mask&#10;     * {@code 0x80000000}) represents the sign of the floating-point&#10;     * number.&#10;     * Bits 30-23 (the bits that are selected by the mask&#10;     * {@code 0x7f800000}) represent the exponent.&#10;     * Bits 22-0 (the bits that are selected by the mask&#10;     * {@code 0x007fffff}) represent the significand (sometimes called&#10;     * the mantissa) of the floating-point number.&#10;     *&#10;     * &lt;p&gt;If the argument is positive infinity, the result is&#10;     * {@code 0x7f800000}.&#10;     *&#10;     * &lt;p&gt;If the argument is negative infinity, the result is&#10;     * {@code 0xff800000}.&#10;     *&#10;     * &lt;p&gt;If the argument is NaN, the result is the integer representing&#10;     * the actual NaN value.  Unlike the {@code floatToIntBits}&#10;     * method, {@code floatToRawIntBits} does not collapse all the&#10;     * bit patterns encoding a NaN to a single &quot;canonical&quot;&#10;     * NaN value.&#10;     *&#10;     * &lt;p&gt;In all cases, the result is an integer that, when given to the&#10;     * {@link #intBitsToFloat(int)} method, will produce a&#10;     * floating-point value the same as the argument to&#10;     * {@code floatToRawIntBits}.&#10;     *&#10;     * @param   value   a floating-point number.&#10;     * @return the bits that represent the floating-point number.&#10;     * @since 1.3&#10;     */" />
@@ -50,11 +51,10 @@
       <item value="offset" />
       <item value=" /**&#10;     * Creates a new random number generator. This constructor sets&#10;     * the seed of the random number generator to a value very likely&#10;     * to be distinct from any other invocation of this constructor.&#10;     */" />
       <item value="断路器" />
-      <item value="倒数第二个" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
+        <entry key="CHINESE" value="261" />
         <entry key="ENGLISH" value="261" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
