@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" /**&#10;     * Removes all of the elements from this list (optional operation).&#10;     * The list will be empty after this call returns.&#10;     *&#10;     * @throws UnsupportedOperationException if the &lt;tt&gt;clear&lt;/tt&gt; operation&#10;     *         is not supported by this list&#10;     */" />
       <item value="同步" />
       <item value="假的" />
       <item value="调整" />
@@ -50,12 +51,11 @@
       <item value="syntax" />
       <item value="offset" />
       <item value=" /**&#10;     * Creates a new random number generator. This constructor sets&#10;     * the seed of the random number generator to a value very likely&#10;     * to be distinct from any other invocation of this constructor.&#10;     */" />
-      <item value="断路器" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
