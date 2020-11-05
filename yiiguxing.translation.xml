@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阻性" />
       <item value="corresponds" />
       <item value="/**&#10;     * Returns the floor modulus of the {@code int} arguments.&#10;     * &lt;p&gt;&#10;     * The floor modulus is {@code x - (floorDiv(x, y) * y)},&#10;     * has the same sign as the divisor {@code y}, and&#10;     * is in the range of {@code -abs(y) &lt; r &lt; +abs(y)}.&#10;     *&#10;     * &lt;p&gt;&#10;     * The relationship between {@code floorDiv} and {@code floorMod} is such that:&#10;     * &lt;ul&gt;&#10;     *   &lt;li&gt;{@code floorDiv(x, y) * y + floorMod(x, y) == x}&#10;     * &lt;/ul&gt;&#10;     * &lt;p&gt;&#10;     * The difference in values between {@code floorMod} and&#10;     * the {@code %} operator is due to the difference between&#10;     * {@code floorDiv} that returns the integer less than or equal to the quotient&#10;     * and the {@code /} operator that returns the integer closest to zero.&#10;     * &lt;p&gt;&#10;     * Examples:&#10;     * &lt;ul&gt;&#10;     *   &lt;li&gt;If the signs of the arguments are the same, the results&#10;     *       of {@code floorMod} and the {@code %} operator are the same.  &lt;br&gt;&#10;     *       &lt;ul&gt;&#10;     *       &lt;li&gt;{@code floorMod(4, 3) == 1}; &amp;nbsp; and {@code (4 % 3) == 1}&lt;/li&gt;&#10;     *       &lt;/ul&gt;&#10;     *   &lt;li&gt;If the signs of the arguments are different, the results differ from the {@code %} operator.&lt;br&gt;&#10;     *      &lt;ul&gt;&#10;     *      &lt;li&gt;{@code floorMod(+4, -3) == -2}; &amp;nbsp; and {@code (+4 % -3) == +1} &lt;/li&gt;&#10;     *      &lt;li&gt;{@code floorMod(-4, +3) == +2}; &amp;nbsp; and {@code (-4 % +3) == -1} &lt;/li&gt;&#10;     *      &lt;li&gt;{@code floorMod(-4, -3) == -1}; &amp;nbsp; and {@code (-4 % -3) == -1 } &lt;/li&gt;&#10;     *      &lt;/ul&gt;&#10;     *   &lt;/li&gt;&#10;     * &lt;/ul&gt;&#10;     * &lt;p&gt;&#10;     * If the signs of arguments are unknown and a positive modulus&#10;     * is needed it can be computed as {@code (floorMod(x, y) + abs(y)) % abs(y)}.&#10;     *&#10;     * @param x the dividend&#10;     * @param y the divisor&#10;     * @return the floor modulus {@code x - (floorDiv(x, y) * y)}&#10;     * @throws ArithmeticException if the divisor {@code y} is zero&#10;     * @see #floorDiv(int, int)&#10;     * @since 1.8&#10;     */" />
       <item value="角度" />
@@ -50,11 +51,10 @@
       <item value="水浸" />
       <item value="chart" />
       <item value="char" />
-      <item value="/**&#10;     * Removes all of the elements from this list (optional operation).&#10;     * The list will be empty after this call returns.&#10;     *&#10;     * @throws UnsupportedOperationException if the &lt;tt&gt;clear&lt;/tt&gt; operation&#10;     *         is not supported by this list&#10;     */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
+        <entry key="CHINESE" value="267" />
         <entry key="ENGLISH" value="267" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
