@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="过小" />
       <item value="滤波" />
       <item value="过滤" />
       <item value=" /**&#10;     * Returns a stream producing the given {@code streamSize} number of&#10;     * pseudorandom {@code double} values, each conforming to the given origin&#10;     * (inclusive) and bound (exclusive).&#10;     *&#10;     * &lt;p&gt;A pseudorandom {@code double} value is generated as if it's the result&#10;     * of calling the following method with the origin and bound:&#10;     * &lt;pre&gt; {@code&#10;     * double nextDouble(double origin, double bound) {&#10;     *   double r = nextDouble();&#10;     *   r = r * (bound - origin) + origin;&#10;     *   if (r &gt;= bound) // correct for rounding&#10;     *     r = Math.nextDown(bound);&#10;     *   return r;&#10;     * }}&lt;/pre&gt;&#10;     *&#10;     * @param streamSize the number of values to generate&#10;     * @param randomNumberOrigin the origin (inclusive) of each random value&#10;     * @param randomNumberBound the bound (exclusive) of each random value&#10;     * @return a stream of pseudorandom {@code double} values,&#10;     *         each with the given origin (inclusive) and bound (exclusive)&#10;     * @throws IllegalArgumentException if {@code streamSize} is&#10;     *         less than zero&#10;     * @throws IllegalArgumentException if {@code randomNumberOrigin}&#10;     *         is greater than or equal to {@code randomNumberBound}&#10;     * @since 1.8&#10;     */" />
@@ -50,12 +51,11 @@
       <item value="interrupt" />
       <item value="square" />
       <item value="标识" />
-      <item value=" * This class also provides various utility methods to help implementation&#10; * of a new buffer type, generation of hex dump and swapping an integer's&#10; * byte order." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="287" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
