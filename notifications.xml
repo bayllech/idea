@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="File type conflict" displayType="NONE" />
     <notification groupId="mybatisCodeHelper" displayType="NONE" />
   </component>
 </application>
