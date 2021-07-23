@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="局部放电" />
+      <item value="局放" />
       <item value="重复" />
       <item value="峰峰值" />
       <item value="有效值" />
@@ -49,13 +51,11 @@
       <item value="深度" />
       <item value="navy" />
       <item value="开关" />
-      <item value="消防" />
-      <item value="年" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="322" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626332248069" />
+    <option name="lastTrimTime" value="1627023130572" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
