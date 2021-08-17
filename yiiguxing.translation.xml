@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maxFileSize property is mandatory." />
       <item value="灰色" />
       <item value="局部放电" />
       <item value="局放" />
@@ -50,12 +51,11 @@
       <item value="        tempAlarmHighThres0c = Integer.parseInt(request.getParameter(&quot;tempAlarmHighThres0c&quot;));&#10;        normalSampleIntervalSec = Integer.parseInt(request.getParameter(&quot;normalSampleIntervalSec&quot;));&#10;        normalSampleReportPeriodMin = Integer.parseInt(request.getParameter(&quot;normalSampleReportPeriodMin&quot;));" />
       <item value="距离" />
       <item value="深度" />
-      <item value="navy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627554229690" />
+    <option name="lastTrimTime" value="1629169320684" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
