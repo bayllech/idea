@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="透传" />
       <item value="profile" />
       <item value="清空" />
       <item value="maxFileSize property is mandatory." />
@@ -50,11 +51,10 @@
       <item value="/**&#10;     * Creates a formatter using the specified pattern.&#10;     * &lt;p&gt;&#10;     * This method will create a formatter based on a simple&#10;     * &lt;a href=&quot;#patterns&quot;&gt;pattern of letters and symbols&lt;/a&gt;&#10;     * as described in the class documentation.&#10;     * For example, {@code d MMM uuuu} will format 2011-12-03 as '3 Dec 2011'.&#10;     * &lt;p&gt;&#10;     * The formatter will use the {@link Locale#getDefault(Locale.Category) default FORMAT locale}.&#10;     * This can be changed using {@link DateTimeFormatter#withLocale(Locale)} on the returned formatter&#10;     * Alternatively use the {@link #ofPattern(String, Locale)} variant of this method.&#10;     * &lt;p&gt;&#10;     * The returned formatter has no override chronology or zone.&#10;     * It uses {@link ResolverStyle#SMART SMART} resolver style.&#10;     *&#10;     * @param pattern  the pattern to use, not null&#10;     * @return the formatter based on the pattern, not null&#10;     * @throws IllegalArgumentException if the pattern is invalid&#10;     * @see DateTimeFormatterBuilder#appendPattern(String)&#10;     */" />
       <item value="infinity" />
       <item value="Definition" />
-      <item value="        tempAlarmHighThres0c = Integer.parseInt(request.getParameter(&quot;tempAlarmHighThres0c&quot;));&#10;        normalSampleIntervalSec = Integer.parseInt(request.getParameter(&quot;normalSampleIntervalSec&quot;));&#10;        normalSampleReportPeriodMin = Integer.parseInt(request.getParameter(&quot;normalSampleReportPeriodMin&quot;));" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
+        <entry key="CHINESE" value="326" />
         <entry key="ENGLISH" value="326" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
