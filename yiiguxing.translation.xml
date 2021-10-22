@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="差值" />
+      <item value="相差" />
+      <item value="差" />
       <item value="injection" />
       <item value="检查" />
       <item value="检测" />
@@ -48,14 +51,11 @@
       <item value="/**&#10;     * Returns an effectively unlimited stream of pseudorandom {@code&#10;     * double} values, each between zero (inclusive) and one&#10;     * (exclusive).&#10;     *&#10;     * &lt;p&gt;A pseudorandom {@code double} value is generated as if it's the result&#10;     * of calling the method {@link #nextDouble()}.&#10;     *&#10;     * @implNote This method is implemented to be equivalent to {@code&#10;     * doubles(Long.MAX_VALUE)}.&#10;     *&#10;     * @return a stream of pseudorandom {@code double} values&#10;     * @since 1.8&#10;     */" />
       <item value="/**&#10;     *&#10;     * Creates a socket address from a hostname and a port number.&#10;     * &lt;p&gt;&#10;     * An attempt will be made to resolve the hostname into an InetAddress.&#10;     * If that attempt fails, the address will be flagged as &lt;I&gt;unresolved&lt;/I&gt;.&#10;     * &lt;p&gt;&#10;     * If there is a security manager, its {@code checkConnect} method&#10;     * is called with the host name as its argument to check the permission&#10;     * to resolve it. This could result in a SecurityException.&#10;     * &lt;P&gt;&#10;     * A valid port value is between 0 and 65535.&#10;     * A port number of {@code zero} will let the system pick up an&#10;     * ephemeral port in a {@code bind} operation.&#10;     * &lt;P&gt;&#10;     * @param   hostname the Host name&#10;     * @param   port    The port number&#10;     * @throws IllegalArgumentException if the port parameter is outside the range&#10;     * of valid port values, or if the hostname parameter is &lt;TT&gt;null&lt;/TT&gt;.&#10;     * @throws SecurityException if a security manager is present and&#10;     *                           permission to resolve the host name is&#10;     *                           denied.&#10;     * @see     #isUnresolved()&#10;     */" />
       <item value="响应" />
-      <item value="基站" />
-      <item value=" /**&#10;     * Returns the angle &lt;i&gt;theta&lt;/i&gt; from the conversion of rectangular&#10;     * coordinates ({@code x},&amp;nbsp;{@code y}) to polar&#10;     * coordinates (r,&amp;nbsp;&lt;i&gt;theta&lt;/i&gt;).&#10;     * This method computes the phase &lt;i&gt;theta&lt;/i&gt; by computing an arc tangent&#10;     * of {@code y/x} in the range of -&lt;i&gt;pi&lt;/i&gt; to &lt;i&gt;pi&lt;/i&gt;. Special&#10;     * cases:&#10;     * &lt;ul&gt;&lt;li&gt;If either argument is NaN, then the result is NaN.&#10;     * &lt;li&gt;If the first argument is positive zero and the second argument&#10;     * is positive, or the first argument is positive and finite and the&#10;     * second argument is positive infinity, then the result is positive&#10;     * zero.&#10;     * &lt;li&gt;If the first argument is negative zero and the second argument&#10;     * is positive, or the first argument is negative and finite and the&#10;     * second argument is positive infinity, then the result is negative zero.&#10;     * &lt;li&gt;If the first argument is positive zero and the second argument&#10;     * is negative, or the first argument is positive and finite and the&#10;     * second argument is negative infinity, then the result is the&#10;     * {@code double} value closest to &lt;i&gt;pi&lt;/i&gt;.&#10;     * &lt;li&gt;If the first argument is negative zero and the second argument&#10;     * is negative, or the first argument is negative and finite and the&#10;     * second argument is negative infinity, then the result is the&#10;     * {@code double} value closest to -&lt;i&gt;pi&lt;/i&gt;.&#10;     * &lt;li&gt;If the first argument is positive and the second argument is&#10;     * positive zero or negative zero, or the first argument is positive&#10;     * infinity and the second argument is finite, then the result is the&#10;     * {@code double} value closest to &lt;i&gt;pi&lt;/i&gt;/2.&#10;     * &lt;li&gt;If the first argument is negative and the second argument is&#10;     * positive zero or negative zero, or the first argument is negative&#10;     * infinity and the second argument is finite, then the result is the&#10;     * {@code double} value closest to -&lt;i&gt;pi&lt;/i&gt;/2.&#10;     * &lt;li&gt;If both arguments are positive infinity, then the result is the&#10;     * {@code double} value closest to &lt;i&gt;pi&lt;/i&gt;/4.&#10;     * &lt;li&gt;If the first argument is positive infinity and the second argument&#10;     * is negative infinity, then the result is the {@code double}&#10;     * value closest to 3*&lt;i&gt;pi&lt;/i&gt;/4.&#10;     * &lt;li&gt;If the first argument is negative infinity and the second argument&#10;     * is positive infinity, then the result is the {@code double} value&#10;     * closest to -&lt;i&gt;pi&lt;/i&gt;/4.&#10;     * &lt;li&gt;If both arguments are negative infinity, then the result is the&#10;     * {@code double} value closest to -3*&lt;i&gt;pi&lt;/i&gt;/4.&lt;/ul&gt;&#10;     *&#10;     * &lt;p&gt;The computed result must be within 2 ulps of the exact result.&#10;     * Results must be semi-monotonic.&#10;     *&#10;     * @param   y   the ordinate coordinate&#10;     * @param   x   the abscissa coordinate&#10;     * @return  the &lt;i&gt;theta&lt;/i&gt; component of the point&#10;     *          (&lt;i&gt;r&lt;/i&gt;,&amp;nbsp;&lt;i&gt;theta&lt;/i&gt;)&#10;     *          in polar coordinates that corresponds to the point&#10;     *          (&lt;i&gt;x&lt;/i&gt;,&amp;nbsp;&lt;i&gt;y&lt;/i&gt;) in Cartesian coordinates.&#10;     */" />
-      <item value="    /**&#10;     * Returns the arc tangent of a value; the returned angle is in the&#10;     * range -&lt;i&gt;pi&lt;/i&gt;/2 through &lt;i&gt;pi&lt;/i&gt;/2.  Special cases:&#10;     * &lt;ul&gt;&lt;li&gt;If the argument is NaN, then the result is NaN.&#10;     * &lt;li&gt;If the argument is zero, then the result is a zero with the&#10;     * same sign as the argument.&lt;/ul&gt;&#10;     *&#10;     * &lt;p&gt;The computed result must be within 1 ulp of the exact result.&#10;     * Results must be semi-monotonic.&#10;     *&#10;     * @param   a   the value whose arc tangent is to be returned.&#10;     * @return  the arc tangent of the argument.&#10;     */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="332" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633746092618" />
+    <option name="lastTrimTime" value="1634902483397" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
