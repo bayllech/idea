@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duty" />
+      <item value="占空比" />
       <item value="Found multiple occurrences of org.json.JSONObject on the class path:" />
       <item value="You may wish to exclude one of them to ensure predictable runtime behavior" />
       <item value="lightning arrester" />
@@ -49,13 +51,11 @@
       <item value=" /**&#10;     * Returns the angle (in radians) from the X axis to a point.&#10;     * @param y A numeric expression representing the cartesian y-coordinate.&#10;     * @param x A numeric expression representing the cartesian x-coordinate.&#10;     */" />
       <item value="/**&#10;     * Returns the arctangent of a number.&#10;     * @param x A numeric expression for which the arctangent is needed.&#10;     */" />
       <item value="过小" />
-      <item value="滤波" />
-      <item value="过滤" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="340" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634902483397" />
+    <option name="lastTrimTime" value="1635392052178" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
