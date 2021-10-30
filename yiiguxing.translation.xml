@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding..." />
+      <item value="Manage pull requests and conduct code reviews in your IDE with full source-tree context. Comment on any line, not just the diffs. Use jump-to-definition, your favorite keybindings, and code intelligence with more of your workflow." />
       <item value="Absent" />
       <item value="present" />
       <item value="盘符" />
@@ -49,8 +51,6 @@
       <item value="电量" />
       <item value="帧" />
       <item value="假的" />
-      <item value="/**&#10;     * Returns the next pseudorandom, uniformly distributed {@code int}&#10;     * value from this random number generator's sequence. The general&#10;     * contract of {@code nextInt} is that one {@code int} value is&#10;     * pseudorandomly generated and returned. All 2&lt;sup&gt;32&lt;/sup&gt; possible&#10;     * {@code int} values are produced with (approximately) equal probability.&#10;     *&#10;     * &lt;p&gt;The method {@code nextInt} is implemented by class {@code Random}&#10;     * as if by:&#10;     *  &lt;pre&gt; {@code&#10;     * public int nextInt() {&#10;     *   return next(32);&#10;     * }}&lt;/pre&gt;&#10;     *&#10;     * @return the next pseudorandom, uniformly distributed {@code int}&#10;     *         value from this random number generator's sequence&#10;     */" />
-      <item value="    /**&#10;     * Returns the arctangent of a number.&#10;     * @param x A numeric expression for which the arctangent is needed.&#10;     */" />
     </histories>
     <option name="languageScores">
       <map>
