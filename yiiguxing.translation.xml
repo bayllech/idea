@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="参数帧" />
+      <item value="上电复位" />
       <item value="    &#10;      Compares two Dates for ordering.&#10;     &#10;      @param   anotherDate   the &lt;code&gt;Date&lt;code&gt; to be compared.&#10;      @return  the value &lt;code&gt;0&lt;code&gt; if the argument Date is equal to&#10;               this Date; a value less than &lt;code&gt;0&lt;code&gt; if this Date&#10;               is before the Date argument; and a value greater than&#10;           &lt;code&gt;0&lt;code&gt; if this Date is after the Date argument.&#10;      @since   1.2&#10;      @exception NullPointerException if &lt;code&gt;anotherDate&lt;code&gt; is null.&#10;     " />
       <item value="正常" />
       <item value="安全运行天数" />
@@ -49,13 +51,11 @@
       <item value="相对" />
       <item value="/**&#10;     * Parses the string argument as a signed integer in the radix&#10;     * specified by the second argument. The characters in the string&#10;     * must all be digits of the specified radix (as determined by&#10;     * whether {@link java.lang.Character#digit(char, int)} returns a&#10;     * nonnegative value), except that the first character may be an&#10;     * ASCII minus sign {@code '-'} ({@code '\u005Cu002D'}) to&#10;     * indicate a negative value or an ASCII plus sign {@code '+'}&#10;     * ({@code '\u005Cu002B'}) to indicate a positive value. The&#10;     * resulting integer value is returned.&#10;     *&#10;     * &lt;p&gt;An exception of type {@code NumberFormatException} is&#10;     * thrown if any of the following situations occurs:&#10;     * &lt;ul&gt;&#10;     * &lt;li&gt;The first argument is {@code null} or is a string of&#10;     * length zero.&#10;     *&#10;     * &lt;li&gt;The radix is either smaller than&#10;     * {@link java.lang.Character#MIN_RADIX} or&#10;     * larger than {@link java.lang.Character#MAX_RADIX}.&#10;     *&#10;     * &lt;li&gt;Any character of the string is not a digit of the specified&#10;     * radix, except that the first character may be a minus sign&#10;     * {@code '-'} ({@code '\u005Cu002D'}) or plus sign&#10;     * {@code '+'} ({@code '\u005Cu002B'}) provided that the&#10;     * string is longer than length 1.&#10;     *&#10;     * &lt;li&gt;The value represented by the string is not a value of type&#10;     * {@code int}.&#10;     * &lt;/ul&gt;&#10;     *&#10;     * &lt;p&gt;Examples:&#10;     * &lt;blockquote&gt;&lt;pre&gt;&#10;     * parseInt(&quot;0&quot;, 10) returns 0&#10;     * parseInt(&quot;473&quot;, 10) returns 473&#10;     * parseInt(&quot;+42&quot;, 10) returns 42&#10;     * parseInt(&quot;-0&quot;, 10) returns 0&#10;     * parseInt(&quot;-FF&quot;, 16) returns -255&#10;     * parseInt(&quot;1100110&quot;, 2) returns 102&#10;     * parseInt(&quot;2147483647&quot;, 10) returns 2147483647&#10;     * parseInt(&quot;-2147483648&quot;, 10) returns -2147483648&#10;     * parseInt(&quot;2147483648&quot;, 10) throws a NumberFormatException&#10;     * parseInt(&quot;99&quot;, 8) throws a NumberFormatException&#10;     * parseInt(&quot;Kona&quot;, 10) throws a NumberFormatException&#10;     * parseInt(&quot;Kona&quot;, 27) returns 411787&#10;     * &lt;/pre&gt;&lt;/blockquote&gt;&#10;     *&#10;     * @param      s   the {@code String} containing the integer&#10;     *                  representation to be parsed&#10;     * @param      radix   the radix to be used while parsing {@code s}.&#10;     * @return     the integer represented by the string argument in the&#10;     *             specified radix.&#10;     * @exception  NumberFormatException if the {@code String}&#10;     *             does not contain a parsable {@code int}.&#10;     */" />
       <item value="连续" />
-      <item value="Passive" />
-      <item value="/* if the message hasn't been delivered to a per subscription handler, give it to the default handler */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="358" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636690414115" />
+    <option name="lastTrimTime" value="1637377973731" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
