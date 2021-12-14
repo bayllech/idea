@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正常" />
       <item value="补偿" />
       <item value="offset" />
       <item value="strain" />
@@ -26,7 +27,6 @@
       <item value="参数帧" />
       <item value="上电复位" />
       <item value="    &#10;      Compares two Dates for ordering.&#10;     &#10;      @param   anotherDate   the &lt;code&gt;Date&lt;code&gt; to be compared.&#10;      @return  the value &lt;code&gt;0&lt;code&gt; if the argument Date is equal to&#10;               this Date; a value less than &lt;code&gt;0&lt;code&gt; if this Date&#10;               is before the Date argument; and a value greater than&#10;           &lt;code&gt;0&lt;code&gt; if this Date is after the Date argument.&#10;      @since   1.2&#10;      @exception NullPointerException if &lt;code&gt;anotherDate&lt;code&gt; is null.&#10;     " />
-      <item value="正常" />
       <item value="安全运行天数" />
       <item value="&#10;      Obtains a {@code Duration} representing the duration between two temporal objects.&#10;      &lt;p&gt;&#10;      This calculates the duration between two temporal objects. If the objects&#10;      are of different types, then the duration is calculated based on the type&#10;      of the first object. For example, if the first argument is a {@code LocalTime}&#10;      then the second argument is converted to a {@code LocalTime}.&#10;      &lt;p&gt;&#10;      The specified temporal objects must support the {@link ChronoUnitSECONDS SECONDS} unit.&#10;      For full accuracy, either the {@link ChronoUnitNANOS NANOS} unit or the&#10;      {@link ChronoFieldNANO_OF_SECOND NANO_OF_SECOND} field should be supported.&#10;      &lt;p&gt;&#10;      The result of this method can be a negative period if the end is before the start.&#10;      To guarantee to obtain a positive duration call {@link abs()} on the result.&#10;     &#10;      @param startInclusive  the start instant, inclusive, not null&#10;      @param endExclusive  the end instant, exclusive, not null&#10;      @return a {@code Duration}, not null&#10;      @throws DateTimeException if the seconds between the temporals cannot be obtained&#10;      @throws ArithmeticException if the calculation exceeds the capacity of {@code Duration}&#10;     " />
       <item value="小数" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="382" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
