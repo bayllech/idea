@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate condition" />
       <item value="additivity" />
       <item value="present" />
       <item value="app throttle exceed" />
@@ -50,7 +51,6 @@
       <item value="保护" />
       <item value="Incorrect" />
       <item value="Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding..." />
-      <item value="Manage pull requests and conduct code reviews in your IDE with full source-tree context. Comment on any line, not just the diffs. Use jump-to-definition, your favorite keybindings, and code intelligence with more of your workflow." />
     </histories>
     <option name="languageScores">
       <map>
