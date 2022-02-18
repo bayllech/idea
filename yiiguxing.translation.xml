@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="超标" />
       <item value="java.lang.Double cannot be cast to java.lang.String" />
       <item value="解析" />
       <item value="slice" />
@@ -50,12 +51,11 @@
       <item value="occurrences" />
       <item value="注册" />
       <item value="北向接口" />
-      <item value="platform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="410" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
