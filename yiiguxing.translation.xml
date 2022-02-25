@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="139" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="厂商设备" />
+      <item value="厂商" />
       <item value="采集" />
       <item value="conflict" />
       <item value="冲突" />
@@ -53,13 +55,11 @@
       <item value="安装" />
       <item value="位置" />
       <item value="分类" />
-      <item value="等级" />
-      <item value="encounter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="420" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
