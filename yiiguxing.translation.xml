@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="139" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="谐波" />
       <item value="厂商设备" />
       <item value="厂商" />
       <item value="采集" />
@@ -54,12 +55,11 @@
       <item value="额定" />
       <item value="安装" />
       <item value="位置" />
-      <item value="分类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="420" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="421" />
+        <entry key="ENGLISH" value="421" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645512973405" />
+    <option name="lastTrimTime" value="1646041061210" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
